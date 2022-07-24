@@ -1,5 +1,4 @@
-### Hi there 👋  I am a PCD ICD 10 - S89.0 Multiple leg injuries    
-### Olá  👋  Sou PCD  CID 10 - S89.0   	Traumatismos múltiplos da perna 
+
 
 - 🔭 I’m currently working on Games NFT
 - 🌱 I’m currently learning Javascript 
@@ -12,3 +11,6 @@
 - 👯 Estou procurando colaborar no Desenvolvimento de Softwares, Games, Sites
 - 💬 Pergunte-me sobre Qualquer assunto se eu nao souber buscarei aprender sobre para  evoluir sempre
 - 📫 Como chegar até mim: 📧 silvanoads2020@gmail.com / 📞 +55(11)96877-7968
+
+### Hi there 👋  I am a PCD ICD 10 - S89.0 Multiple leg injuries    
+### Olá  👋  Sou PCD  CID 10 - S89.0   	Traumatismos múltiplos da perna 
